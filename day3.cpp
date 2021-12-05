@@ -4,7 +4,9 @@
 #include <vector>
 #include <unordered_set>
 
-using std::string, std::vector, std::unordered_set;
+using std::string;
+using std::vector; 
+using std::unordered_set;
 
 int day3_part1() {
     string gamma = "", alpha = "";

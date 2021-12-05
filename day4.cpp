@@ -5,7 +5,9 @@
 #include <vector>
 #include <unordered_set>
 
-using std::string, std::vector, std::unordered_set;
+using std::string;
+using std::vector; 
+using std::unordered_set;
 
 vector<vector<int>> parse_boards(std::ifstream& file) {
     vector<vector<int>> res;
